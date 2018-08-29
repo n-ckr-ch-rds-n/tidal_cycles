@@ -1,0 +1,3 @@
+d9 $ sound "glitch*4" # speed (rand)
+cps 0.5
+hush
